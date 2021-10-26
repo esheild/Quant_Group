@@ -1,0 +1,99 @@
+---
+title: "Quant_Group_1"
+author: "E.Sheild_N.Levine_G.Barrett-Jackson"
+date: "10/25/21"
+output: 
+  html_document:
+    theme: readable
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research Question
+
+This is where we put our question
+
+# Prior Research
+
+In order to further the goals of our methods and approach, our group pulled from two areas of prior research. Our hope over the course of the module is to continue identifying gaps in that research that can better refine our own approach to contribute to the broader research body of social determinants of bicycle infrastructure and ridership. 
+
+## First Prior Research
+
+Insert Text about first research
+
+## Second Prior Research
+
+
+## Current News Articles 
+
+Our group also sought to explore current news articles related to this research area, and can be found in the bibliography. 
+
+# Data
+
+The sample data for this research is the full set of Census Block Group within County. Expanding on our key concepts of class, we selected two categorical (nominal) variables and three continuous variables (Described based on a number on the scale).
+
+## Categorical Variables
+
+* Insert First
+* Insert Second
+
+
+## Continious Variables
+
+* Insert First
+* Insert Second
+* Insert Third
+
+
+# Load Data
+
+```{r, message=FALSE}
+library(tidyverse)
+library(tidycensus)
+library(readxl)
+library(knitr)
+library(sf)
+library(tidyverse)
+library(ggthemes)
+library(units)
+library(nngeo)
+library(osmextract)
+```
+
+```{r, message=FALSE, results='hide'}
+
+
+```
+
+```{r, message=FALSE, results='hide'}
+
+
+```
+
+```{r, message=FALSE, results='hide'}
+
+
+```
+
+
+```{r, message=FALSE, results='hide'}
+
+
+```
+
+```{r, message=FALSE, results='hide'}
+
+
+```
+
+# References 
+
+*Insert Reference one
+*Insert Reference two
+*Insert Ref three
+*Insert Ref four
